@@ -1,0 +1,12 @@
+{
+  "name": "github-raw-cors-proxy",
+  "version": "0.0.1",
+  "description": "Get raw json files from public github repos over CORS.",
+  "author": "Zeke Sikelianos <zeke@sikelianos.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.2.6",
+    "request": "~2.21.0",
+    "cors": "~1.0.1"
+  }
+}
